@@ -66,9 +66,7 @@ for e in sorted(c.events):
     if append or force_append:
         events.append(e)
 
-for e in events:
-    print(e.uid, e.begin, e.name, e.duration)
-
 
 new_c = Calendar(events=events)
-open('filtered_troop_150.ics', 'w').writelines(c)
+
+open('filtered_troop_150.ics', 'w').writelines(new_c)
