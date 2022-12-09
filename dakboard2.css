@@ -1,72 +1,88 @@
-/* .daybox li {
-    padding: 5px;
-    border-radius: 3px;
-} */
+.daybox li {
+  padding: 5px;
+  border-radius: 3px;
+}
 
 /* https://coolors.co/palette/264653-2a9d8f-e9c46a-f4a261-e76f51 */
 
 /* .daybox li.red-bright {
-  color: #E76F51 !important;
+color: #E76F51 !important;
 }
 
 .daybox li.orange-bright {
-  color: #F4A261 !important;
+color: #F4A261 !important;
 }
 
- .daybox li.green-bright {
-  color: #2A9D8F !important;
+.daybox li.green-bright {
+color: #2A9D8F !important;
 }
 
- .daybox li.blue-bright {
-  color: #264653 !important;
+.daybox li.blue-bright {
+color: #264653 !important;
 } */
 
-/* .calendar-monthly li.red-bright.event-all-day {
-  background-color: #ff4f4f !important;
-    border-radius: 3px;
-    color: white !important;
+.calendar-monthly li.red-bright.event-all-day {
+background-color: #ff4f4f !important;
+  border-radius: 3px;
+  color: white !important;
 }
 
 .calendar-monthly li.orange-bright.event-all-day {
-  background-color: #ffb04f !important;
-    border-radius: 3px;
-    color: white !important;
+background-color: #ffb04f !important;
+  border-radius: 3px;
+  color: white !important;
 }
 
 .calendar-monthly li.green-bright.event-all-day {
-  background-color: #28e840 !important;
-    border-radius: 3px;
-    color: white !important;
+background-color: #28e840 !important;
+  border-radius: 3px;
+  color: white !important;
 }
 
 .calendar-monthly li.blue-bright.event-all-day {
-  background-color: #68baff !important;
-    border-radius: 3px;
-    color: white !important;
-} */
+background-color: #68baff !important;
+  border-radius: 3px;
+  color: white !important;
+}
 
 .fa-acorn:before {
-  content: url(data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7)🤽‍♂️;
+content: url(data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7)🤽‍♂️;
 }
 
 .block.audio.block-audio {
-  width: 400px !important;
-  height: 497px !important;
+width: 400px !important;
+height: 497px !important;
 }
 
 a[href="https://www.tomorrow.io/weather-api/"] {
-  display: none !important;
+display: none !important;
 }
 
 /* weather iframe */
 #637a80e77a5d0e0abf0f5374 {
-  overflow: hidden;
+overflow: hidden;
 }
 
 .dim {
-  opacity: .3;
+opacity: .3;
 }
 
 .month-future .dim { 
-  opacity: 1;
+opacity: 1;
+}
+
+.fa-cloud-showers {
+color: #ABD9FF;
+}
+
+.fa-sun-cloud {
+color: #FFF38C;
+}
+
+.fa-sun {
+color: #F8F988;
+}
+
+.fa-clouds {
+color: #F4EAD5;
 }
