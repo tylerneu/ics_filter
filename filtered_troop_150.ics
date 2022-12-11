@@ -2,7 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
+DTEND:20230128T223000Z
+LOCATION:TN Tech
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230128T140000Z
+SUMMARY:TN Tech MBU
+UID:4855011@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221211T150350Z
 DESCRIPTION:From changing a tire to checking fluids\, to even changing headlight bulbs\, MEchanics teaches drivers of all skill levels and ages how to properly care for their car to keep it running strong. Learn from some experts and take a tour of the Corvette Museum. Cost is $20.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
 DTEND:20230114T173000Z
 LOCATION:Corvette Museum Bowling Green KY
@@ -13,7 +24,7 @@ UID:4790552@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043756
 DTEND:20221217T173000Z
 LOCATION:Leeville United Methodist Church
@@ -24,18 +35,7 @@ UID:4043756@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043756
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4763226
-DTEND:20221129T023000Z
-LOCATION:Covenant Fellowship
-ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20221129T010000Z
-SUMMARY:Thanksgiving Trivia challenge led by Durden
-UID:4763226@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4763226
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
 DTEND:20230122T053000Z
 LOCATION:Leeville United Methodist Church
@@ -46,7 +46,7 @@ UID:4771094@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4502328
 DTEND:20221215T020000Z
 LOCATION:Cumberland University
@@ -57,7 +57,7 @@ UID:4502328@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4502328
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4304155
 DTEND:20221220T023000Z
 LOCATION:Covenant Fellowship
@@ -68,7 +68,7 @@ UID:4304155@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4304155
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
 DTEND:20230128T233000Z
 LOCATION:Stone Door @ Savage Gulf
@@ -79,7 +79,18 @@ UID:4799290@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799310
+DTEND:20230205T173000Z
+LOCATION:Covenant Fellowship
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230205T160000Z
+SUMMARY:Scout Sunday
+UID:4799310@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799310
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221211T150350Z
 DESCRIPTION:Patrol Gingerbread house building competition! We provide the supplies\, you bring the creativity. Can't wait to see what you come up with!\n\nDirty Santa gift exchange! Bring a wrapped gift ($10 value). Everybody who brings a gift gets to draw a number. #1 picks a gift and opens it. #2 can pick a new gift or steal. And so on and so forth. Maximum two steals (3rd person to touch the item gets to keep it). #1 gets a final chance to steal.\n\nFun times for all!!\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4101497
 DTEND:20221213T023000Z
 LOCATION:Covenant Fellowship
@@ -90,7 +101,7 @@ UID:4101497@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4101497
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799292
 DTEND:20230131T023000Z
 LOCATION:Covenant Fellowship
@@ -101,7 +112,7 @@ UID:4799292@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799292
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221204T204415Z
+DTSTAMP:20221211T150350Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4763232
 DTEND:20221206T023000Z
 LOCATION:Covenant Fellowship

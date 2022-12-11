@@ -21,32 +21,38 @@ color: #2A9D8F !important;
 color: #264653 !important;
 } */
 
-.calendar-monthly li.red-bright.event-all-day {
-background-color: #ff4f4f !important;
+.calendar-monthly li.event-all-day {
   border-radius: 3px;
+}
+
+.calendar-monthly li.red-bright.event-all-day {
+  background-color: #ff4f4f !important;
   color: white !important;
 }
 
 .calendar-monthly li.orange-bright.event-all-day {
-background-color: #ffb04f !important;
-  border-radius: 3px;
-  color: white !important;
+  background-color: #ffb04f !important;
+  color: black !important;
 }
 
 .calendar-monthly li.green-bright.event-all-day {
-background-color: #28e840 !important;
-  border-radius: 3px;
-  color: white !important;
+  background-color: #28e840 !important;
+  color: black !important;
 }
 
 .calendar-monthly li.blue-bright.event-all-day {
-background-color: #68baff !important;
-  border-radius: 3px;
-  color: white !important;
+  background-color: #68baff !important;
+  color: black !important;
+}
+
+.calendar-monthly li.yellow-bright.event-all-day {
+  background-color: #fcff4f !important;
+  color: black !important;
 }
 
 .fa-acorn:before {
-content: url(data:image/gif;base64,R0lGODlhEAAQAMQAAORHHOVSKudfOulrSOp3WOyDZu6QdvCchPGolfO0o/XBs/fNwfjZ0frl3/zy7////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAkAABAALAAAAAAQABAAAAVVICSOZGlCQAosJ6mu7fiyZeKqNKToQGDsM8hBADgUXoGAiqhSvp5QAnQKGIgUhwFUYLCVDFCrKUE1lBavAViFIDlTImbKC5Gm2hB0SlBCBMQiB0UjIQA7)🤽‍♂️;
+  content: url(https://github.com/tylerneu/ics_filter/raw/main/tyler40.png);
+  width: 50px;
 }
 
 .block.audio.block-audio {
@@ -71,6 +77,8 @@ opacity: .3;
 opacity: 1;
 }
 
+/** WEATHER **/
+
 .fa-cloud-showers {
 color: #ABD9FF;
 }
@@ -80,9 +88,23 @@ color: #FFF38C;
 }
 
 .fa-sun {
-color: #F8F988;
+color: #f6f95b;
 }
 
 .fa-clouds {
-color: #F4EAD5;
+  color: #F4EAD5;
+}
+
+.weather-item.weather-forecast.weather-forecast-12 {
+  border-left: 0px !important;
+}
+
+/** COUNTDOWNS **/
+.countdown-timers-container .countdown-item {
+  border-radius: 5px;
+}
+
+/** NEWS **/
+.rss-title, .rss-description {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
