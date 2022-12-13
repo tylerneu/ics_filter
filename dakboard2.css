@@ -50,6 +50,11 @@ color: #264653 !important;
   color: black !important;
 }
 
+.calendar-monthly li.white.event-all-day {
+  background-color: #FFF !important;
+  color: black !important;
+}
+
 .fa-acorn:before {
   content: url(https://github.com/tylerneu/ics_filter/raw/main/tyler40.png);
   width: 50px;

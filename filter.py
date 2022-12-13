@@ -17,6 +17,7 @@ END_DATE = NOW + timedelta(days=60)
 EXCLUDE_REGEX = [
     "break",
     "no school",
+    "Roundtable",
 ]
 
 FORCE_INCLUDE_REGEX = []
