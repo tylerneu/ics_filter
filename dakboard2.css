@@ -25,33 +25,43 @@ color: #264653 !important;
   border-radius: 3px;
 }
 
-.calendar-monthly li.red-bright.event-all-day {
+.calendar-monthly li.red-bright.event-all-day, .grid-item.event-red-bright-day {
   background-color: #ff4f4f !important;
   color: white !important;
 }
 
-.calendar-monthly li.orange-bright.event-all-day {
+.calendar-monthly li.orange-bright.event-all-day, .grid-item.event-orange-bright {
   background-color: #ffb04f !important;
   color: black !important;
 }
 
-.calendar-monthly li.green-bright.event-all-day {
+.calendar-monthly li.green-bright.event-all-day, .grid-item.event-green-bright {
   background-color: #28e840 !important;
   color: black !important;
 }
 
-.calendar-monthly li.blue-bright.event-all-day {
+.calendar-monthly li.blue-bright.event-all-day, .grid-item.event-blue-bright {
   background-color: #68baff !important;
   color: black !important;
 }
 
-.calendar-monthly li.yellow-bright.event-all-day {
+.calendar-monthly li.yellow-bright.event-all-day, .grid-item.event-yellow-bright {
   background-color: #fcff4f !important;
   color: black !important;
 }
 
-.calendar-monthly li.white.event-all-day {
+.calendar-monthly li.pink-bright.event-all-day, .grid-item.event-pink-bright {
+  background-color: #fd79ff !important;
+  color: black !important;
+}
+
+.calendar-monthly li.white-bright.event-all-day, .grid-item.event-white-bright {
   background-color: #FFF !important;
+  color: black !important;
+}
+
+.calendar-monthly li.purple.event-all-day, .grid-item.event-purple {
+  background-color: #c1c8ff !important;
   color: black !important;
 }
 
@@ -100,7 +110,7 @@ color: #f6f95b;
   color: #F4EAD5;
 }
 
-.weather-item.weather-forecast.weather-forecast-12 {
+.weather-item.weather-forecast.weather-forecast-8, .weather-item.weather-forecast.weather-forecast-12 {
   border-left: 0px !important;
 }
 
