@@ -55,7 +55,7 @@ color: #264653 !important;
   color: black !important;
 }
 
-.calendar-monthly li.white-bright.event-all-day, .grid-item.event-white-bright {
+.calendar-monthly li.white.event-all-day, .grid-item.event-white {
   background-color: #FFF !important;
   color: black !important;
 }
