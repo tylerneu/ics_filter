@@ -114,6 +114,15 @@ color: #f6f95b;
   border-left: 0px !important;
 }
 
+.weather-alert {
+  padding: 15px;
+}
+
+.weather-alert div:nth-child(2) {
+  padding-left: 20px;
+}
+}
+
 /** COUNTDOWNS **/
 .countdown-timers-container .countdown-item {
   border-radius: 5px;
