@@ -93,11 +93,12 @@ a[href="https://www.tomorrow.io/weather-api/"] {
 }
 
 .dim {
-  opacity: 0;
+  display: none;
 }
 
 .month-future .dim {
   opacity: 1;
+  display: block;
 }
 
 /** WEATHER **/
