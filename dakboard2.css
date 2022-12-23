@@ -25,42 +25,50 @@ color: #264653 !important;
   border-radius: 3px;
 }
 
-.calendar-monthly li.red-bright.event-all-day, .grid-item.event-red-bright-day {
+.calendar-monthly li.red-bright.event-all-day,
+.grid-item.event-red-bright-day {
   background-color: #ff4f4f !important;
   color: white !important;
 }
 
-.calendar-monthly li.orange-bright.event-all-day, .grid-item.event-orange-bright {
+.calendar-monthly li.orange-bright.event-all-day,
+.grid-item.event-orange-bright {
   background-color: #ffb04f !important;
   color: black !important;
 }
 
-.calendar-monthly li.green-bright.event-all-day, .grid-item.event-green-bright {
+.calendar-monthly li.green-bright.event-all-day,
+.grid-item.event-green-bright {
   background-color: #28e840 !important;
   color: black !important;
 }
 
-.calendar-monthly li.blue-bright.event-all-day, .grid-item.event-blue-bright {
+.calendar-monthly li.blue-bright.event-all-day,
+.grid-item.event-blue-bright {
   background-color: #68baff !important;
   color: black !important;
 }
 
-.calendar-monthly li.yellow-bright.event-all-day, .grid-item.event-yellow-bright {
+.calendar-monthly li.yellow-bright.event-all-day,
+.grid-item.event-yellow-bright {
   background-color: #fcff4f !important;
   color: black !important;
 }
 
-.calendar-monthly li.pink-bright.event-all-day, .grid-item.event-pink-bright {
+.calendar-monthly li.pink-bright.event-all-day,
+.grid-item.event-pink-bright {
   background-color: #fd79ff !important;
   color: black !important;
 }
 
-.calendar-monthly li.white.event-all-day, .grid-item.event-white {
+.calendar-monthly li.white.event-all-day,
+.grid-item.event-white {
   background-color: #FFF !important;
   color: black !important;
 }
 
-.calendar-monthly li.purple.event-all-day, .grid-item.event-purple {
+.calendar-monthly li.purple.event-all-day,
+.grid-item.event-purple {
   background-color: #c1c8ff !important;
   color: black !important;
 }
@@ -71,46 +79,47 @@ color: #264653 !important;
 }
 
 .block.audio.block-audio {
-width: 400px !important;
-height: 497px !important;
+  width: 400px !important;
+  height: 497px !important;
 }
 
 a[href="https://www.tomorrow.io/weather-api/"] {
-display: none !important;
+  display: none !important;
 }
 
 /* weather iframe */
 #637a80e77a5d0e0abf0f5374 {
-overflow: hidden;
+  overflow: hidden;
 }
 
 .dim {
-opacity: .3;
+  opacity: 0;
 }
 
-.month-future .dim { 
-opacity: 1;
+.month-future .dim {
+  opacity: 1;
 }
 
 /** WEATHER **/
 
 .fa-cloud-showers {
-color: #ABD9FF;
+  color: #ABD9FF;
 }
 
 .fa-sun-cloud {
-color: #FFF38C;
+  color: #FFF38C;
 }
 
 .fa-sun {
-color: #f6f95b;
+  color: #f6f95b;
 }
 
 .fa-clouds {
   color: #F4EAD5;
 }
 
-.weather-item.weather-forecast.weather-forecast-8, .weather-item.weather-forecast.weather-forecast-12 {
+.weather-item.weather-forecast.weather-forecast-8,
+.weather-item.weather-forecast.weather-forecast-12 {
   border-left: 0px !important;
 }
 
@@ -121,7 +130,6 @@ color: #f6f95b;
 .weather-alert div:nth-child(2) {
   padding-left: 20px;
 }
-}
 
 /** COUNTDOWNS **/
 .countdown-timers-container .countdown-item {
@@ -129,6 +137,7 @@ color: #f6f95b;
 }
 
 /** NEWS **/
-.rss-title, .rss-description {
+.rss-title,
+.rss-description {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
