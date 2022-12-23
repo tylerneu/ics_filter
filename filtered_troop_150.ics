@@ -2,29 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
-DTEND:20230128T223000Z
-LOCATION:TN Tech
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771100
+DTEND:20230219T053000Z
+LOCATION:Leeville United Methodist Church
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230128T140000Z
-SUMMARY:TN Tech MBU
-UID:4855011@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
+DTSTART:20230218T153000Z
+SUMMARY:SALT
+UID:4771100@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771100
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
-DESCRIPTION:From changing a tire to checking fluids\, to even changing headlight bulbs\, MEchanics teaches drivers of all skill levels and ages how to properly care for their car to keep it running strong. Learn from some experts and take a tour of the Corvette Museum. Cost is $20.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
-DTEND:20230114T173000Z
-LOCATION:Corvette Museum Bowling Green KY
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877320
+DTEND:20230117T023000Z
+LOCATION:Mt. Juliet Church of the Nazarene
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230114T153000Z
-SUMMARY:MEchanics program @ the Corvette Museum
-UID:4790552@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
+DTSTART:20230117T010000Z
+SUMMARY:Civil Rights trivia  - AJ
+UID:4877320@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877320
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
+DTSTAMP:20221222T205054Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043756
 DTEND:20221217T173000Z
 LOCATION:Leeville United Methodist Church
@@ -35,40 +35,40 @@ UID:4043756@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043756
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
-DTEND:20230122T053000Z
-LOCATION:Leeville United Methodist Church
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877312
+DTEND:20230110T023000Z
+LOCATION:Mt. Juliet Church of the Nazarene
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230121T153000Z
-SUMMARY:SALT
-UID:4771094@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
+DTSTART:20230110T010000Z
+SUMMARY:"Getting to know you" game led by Durden
+UID:4877312@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877312
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4304155
-DTEND:20221220T023000Z
-LOCATION:Covenant Fellowship
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
+DTEND:20230207T023000Z
+LOCATION:Mt. Juliet Church of the Nazarene
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20221220T010000Z
-SUMMARY:1 on 1's/Patrol Meetings / PLC
-UID:4304155@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4304155
+DTSTART:20230207T010000Z
+SUMMARY:Skit Competition
+UID:4877322@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
-DTEND:20230204T220000Z
-LOCATION:Stone Door @ Savage Gulf
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799305
+DTEND:20230218T213000Z
+LOCATION:Hermitage Lanes
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230204T130000Z
-SUMMARY:Day Hike
-UID:4799290@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
+DTSTART:20230218T190000Z
+SUMMARY:Bowling
+UID:4799305@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799305
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
+DTSTAMP:20221222T205054Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799310
 DTEND:20230205T173000Z
 LOCATION:Covenant Fellowship
@@ -79,18 +79,95 @@ UID:4799310@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799310
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
-DESCRIPTION:Patrol Gingerbread house building competition! We provide the supplies\, you bring the creativity. Can't wait to see what you come up with!\n\nDirty Santa gift exchange! Bring a wrapped gift ($10 value). Everybody who brings a gift gets to draw a number. #1 picks a gift and opens it. #2 can pick a new gift or steal. And so on and so forth. Maximum two steals (3rd person to touch the item gets to keep it). #1 gets a final chance to steal.\n\nFun times for all!!\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4101497
-DTEND:20221213T023000Z
-LOCATION:Covenant Fellowship
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877324
+DTEND:20230214T023000Z
+LOCATION:Mt. Juliet Church of the Nazarene
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20221213T010000Z
-SUMMARY:Christmas party/Gingerbread House building (details in notes)
-UID:4101497@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4101497
+DTSTART:20230214T010000Z
+SUMMARY:Knife Safety (and First Aid!) - Tyler
+UID:4877324@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877324
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
+DTEND:20230128T223000Z
+LOCATION:TN Tech
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230128T140000Z
+SUMMARY:TN Tech MBU
+UID:4855011@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877321
+DTEND:20230124T023000Z
+LOCATION:Mt. Juliet Church of the Nazarene
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230124T010000Z
+SUMMARY:Camping Merit Badge
+UID:4877321@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877321
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T205054Z
+DESCRIPTION:$7 Scout/$10 adult\; minimum 15 people  to reserve\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
+DTEND:20230114T203000Z
+LOCATION:Corvette Museum Bowling Green KY
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230114T170000Z
+SUMMARY:trip to the Corvette Museum
+UID:4790552@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875626
+DTEND:20230221T023000Z
+LOCATION:Covenant Fellowship
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230221T010000Z
+SUMMARY:Patrol meetings/1-on-1's/PLC - plan for elections
+UID:4875626@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875626
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
+DTEND:20230122T053000Z
+LOCATION:Leeville United Methodist Church
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230121T153000Z
+SUMMARY:SALT
+UID:4771094@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4304155
+DTEND:20221220T023000Z
+LOCATION:Covenant Fellowship
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20221220T010000Z
+SUMMARY:1 on 1's/Patrol Meetings / PLC
+UID:4304155@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4304155
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T205054Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
+DTEND:20230204T220000Z
+LOCATION:Stone Door @ Savage Gulf
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230204T130000Z
+SUMMARY:Day Hike
+UID:4799290@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20221222T205054Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799292
 DTEND:20230131T023000Z
 LOCATION:Covenant Fellowship
@@ -101,7 +178,7 @@ UID:4799292@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799292
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20221219T122142Z
+DTSTAMP:20221222T205054Z
 DESCRIPTION:crossover for the AOLs from Pack 153 to Troop 150\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4768806
 DTEND:20230212T020000Z
 LOCATION:MJE
