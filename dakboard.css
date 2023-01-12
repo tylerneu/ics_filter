@@ -142,3 +142,7 @@ a[href="https://www.tomorrow.io/weather-api/"] {
 .rss-description {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.rss-description figure img {
+	width: 50%;
+}
