@@ -32,43 +32,57 @@ color: #264653 !important;
 }
 
 .calendar-monthly li.orange-bright.event-all-day,
-.grid-item.event-orange-bright {
+.grid-item.event-orange-bright,
+.grid-item.event-orange-bright .event-time-start,
+.grid-item.event-orange-bright .event-time-end {
   background-color: #ffb04f !important;
   color: black !important;
 }
 
 .calendar-monthly li.green-bright.event-all-day,
-.grid-item.event-green-bright {
+.grid-item.event-green-bright,
+.grid-item.event-green-bright .event-time-start,
+.grid-item.event-green-bright .event-time-end {
   background-color: #28e840 !important;
   color: black !important;
 }
 
 .calendar-monthly li.blue-bright.event-all-day,
-.grid-item.event-blue-bright {
+.grid-item.event-blue-bright,
+.grid-item.event-blue-bright .event-time-start,
+.grid-item.event-blue-bright .event-time-end {
   background-color: #68baff !important;
   color: black !important;
 }
 
 .calendar-monthly li.yellow-bright.event-all-day,
-.grid-item.event-yellow-bright {
+.grid-item.event-yellow-bright,
+.grid-item.event-yellow-bright .event-time-start,
+.grid-item.event-yellow-bright .event-time-end {
   background-color: #fcff4f !important;
   color: black !important;
 }
 
 .calendar-monthly li.pink-bright.event-all-day,
-.grid-item.event-pink-bright {
+.grid-item.event-pink-bright,
+.grid-item.event-pink-bright .event-time-start,
+.grid-item.event-pink-bright .event-time-end {
   background-color: #fd79ff !important;
   color: black !important;
 }
 
 .calendar-monthly li.white.event-all-day,
-.grid-item.event-white {
+.grid-item.event-white,
+.grid-item.event-white-bright .event-time-start,
+.grid-item.event-white-bright .event-time-end {
   background-color: #FFF !important;
   color: black !important;
 }
 
 .calendar-monthly li.purple.event-all-day,
-.grid-item.event-purple {
+.grid-item.event-purple,
+.grid-item.event-purple-bright .event-time-start,
+.grid-item.event-purple-bright .event-time-end {
   background-color: #c1c8ff !important;
   color: black !important;
 }
