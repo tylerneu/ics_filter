@@ -2,7 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799328
+DTEND:20230318T213000Z
+LOCATION:Holy Family Catholic Church
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230318T130000Z
+SUMMARY:University of Scouting
+UID:4799328@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799328
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771100
 DTEND:20230218T173000Z
 LOCATION:Leeville United Methodist Church
@@ -13,7 +24,7 @@ UID:4771100@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771100
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877320
 DTEND:20230117T023000Z
 LOCATION:Mt. Juliet Church of the Nazarene
@@ -24,7 +35,7 @@ UID:4877320@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877320
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4876013
 DTEND:20230228T023000Z
 LOCATION:Mt Juliet Church of the Nazarene
@@ -35,29 +46,7 @@ UID:4876013@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4876013
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877312
-DTEND:20230110T023000Z
-LOCATION:Mt. Juliet Church of the Nazarene
-ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230110T010000Z
-SUMMARY:"Getting to know you" game led
-UID:4877312@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877312
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
-DTEND:20230207T023000Z
-LOCATION:Mt. Juliet Church of the Nazarene
-ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230207T010000Z
-SUMMARY:Skit Competition
-UID:4877322@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799305
 DTEND:20230218T213000Z
 LOCATION:Hermitage Lanes
@@ -68,7 +57,18 @@ UID:4799305@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799305
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
+DTEND:20230207T023000Z
+LOCATION:Mt. Juliet Church of the Nazarene
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230207T010000Z
+SUMMARY:Skit Competition
+UID:4877322@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799310
 DTEND:20230205T173000Z
 LOCATION:Covenant Fellowship
@@ -79,7 +79,7 @@ UID:4799310@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799310
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877324
 DTEND:20230214T023000Z
 LOCATION:Mt. Juliet Church of the Nazarene
@@ -90,7 +90,18 @@ UID:4877324@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877324
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875629
+DTEND:20230321T013000Z
+LOCATION:Covenant Fellowship
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230321T000000Z
+SUMMARY:Patrol meetings/1-on-1's/PLC/C
+UID:4875629@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875629
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230120T150743Z
 DESCRIPTION:volunteer hours for everybody! sign-ups will be available soon\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4768800
 DTEND:20230225T233000Z
 LOCATION:The Mill in Lebanon
@@ -101,7 +112,7 @@ UID:4768800@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4768800
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
 DTEND:20230128T223000Z
 LOCATION:TN Tech
@@ -112,18 +123,29 @@ UID:4855011@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4855011
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771101
+DTEND:20230318T163000Z
+LOCATION:Leeville United Methodist Church
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230318T143000Z
+SUMMARY:SALT
+UID:4771101@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771101
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877321
 DTEND:20230124T023000Z
 LOCATION:Mt. Juliet Church of the Nazarene
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
 DTSTART:20230124T010000Z
-SUMMARY:Camping Merit Badge
+SUMMARY:Order of the Arrow introductio
 UID:4877321@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877321
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:Please RSVP if you haven't already done so.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
 DTEND:20230114T203000Z
 LOCATION:Corvette Museum Bowling Green KY
@@ -134,7 +156,7 @@ UID:4790552@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4790552
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875626
 DTEND:20230221T023000Z
 LOCATION:Covenant Fellowship
@@ -145,7 +167,7 @@ UID:4875626@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875626
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
 DTEND:20230121T173000Z
 LOCATION:Leeville United Methodist Church
@@ -156,7 +178,7 @@ UID:4771094@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771094
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
 DTEND:20230204T220000Z
 LOCATION:Stone Door @ Savage Gulf
@@ -167,7 +189,18 @@ UID:4799290@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799290
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4922078
+DTEND:20230207T023000Z
+LOCATION:Mt. Juliet Church of the Nazarene
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230207T010000Z
+SUMMARY:OA Elections
+UID:4922078@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4922078
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230120T150743Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799292
 DTEND:20230131T023000Z
 LOCATION:Covenant Fellowship
@@ -178,7 +211,7 @@ UID:4799292@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799292
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230113T085853Z
+DTSTAMP:20230120T150743Z
 DESCRIPTION:crossover for the AOLs from Pack 153 to Troop 150\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4768806
 DTEND:20230212T020000Z
 LOCATION:MJE
