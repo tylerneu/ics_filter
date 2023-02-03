@@ -8,26 +8,26 @@ from rich.console import Console
 console = Console()
 
 configs = [
+    # {
+    #     'start_days': 10,
+    #     'end_days': 60,
+    #     'exclude_regex': [
+    #         "break",
+    #         "no school",
+    #         "Roundtable",
+    #     ],
+    #     'remove_substring': [],
+    #     'include_regex': [],
+    #     'exclude_multi_day': True,
+    #     'excluded_ids': [],
+    #     'force_included_ids': [],
+    #     'max_name_length': 30,
+    #     'url': 'https://scoutbook.scouting.org/ics/44935.D37B9.ics',
+    #     'outgoing_filename': 'filtered_troop_150.ics'
+    # },
     {
         'start_days': 10,
-        'end_days': 60,
-        'exclude_regex': [
-            "break",
-            "no school",
-            "Roundtable",
-        ],
-        'remove_substring': [],
-        'include_regex': [],
-        'exclude_multi_day': True,
-        'excluded_ids': [],
-        'force_included_ids': [],
-        'max_name_length': 30,
-        'url': 'https://scoutbook.scouting.org/ics/44935.D37B9.ics',
-        'outgoing_filename': 'filtered_troop_150.ics'
-    },
-    {
-        'start_days': 10,
-        'end_days': 60,
+        'end_days': 120,
         'exclude_regex': [],
         'remove_substring': [
             ' - Spring 2023 Practice'
@@ -90,6 +90,7 @@ for config in configs:
 
             for substring in config['remove_substring']:
                 e.name = e.name.replace(substring, '')
+                console.print(e.begin.strftime('%m/%d/%y'), e.name, style="black on orange")
 
             if len(e.name) > config['max_name_length']:
                 e.name = e.name[0:config['max_name_length']]
