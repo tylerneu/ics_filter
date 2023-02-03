@@ -7,79 +7,82 @@ from rich.console import Console
 
 console = Console()
 
-# FILTER OPTIONS
-
-# Date range
-NOW = datetime.utcnow().replace(tzinfo=pytz.timezone('US/Central'))
-START_DATE = NOW - timedelta(days=10) 
-END_DATE = NOW + timedelta(days=60)
-
-# Name match
-EXCLUDE_REGEX = [
-    "break",
-    "no school",
-    "Roundtable",
+configs = [
+    {
+        'start_days': 10,
+        'end_days': 60,
+        'exclude_regex': [
+            "break",
+            "no school",
+            "Roundtable",
+        ],
+        'include_regex': [],
+        'exclude_multi_day': True,
+        'excluded_ids': [],
+        'force_included_ids': [],
+        'max_name_length': 30,
+        'url': 'https://scoutbook.scouting.org/ics/44935.D37B9.ics',
+        'outgoing_filename': 'filtered_troop_150.ics'
+    }
 ]
 
-FORCE_INCLUDE_REGEX = []
+for config in configs:
 
-EXCLUDE_MULTI_DAY = True
+    # FILTER OPTIONS
 
-EXCLUDED_IDS = []
-FORCE_INCLUDED_IDS = []
+    # Date range
+    NOW = datetime.utcnow().replace(tzinfo=pytz.timezone('US/Central'))
+    START_DATE = NOW - timedelta(days=config['start_days'])
+    END_DATE = NOW + timedelta(days=config['end_days'])
 
-MAX_NAME_LENGTH = 30
+    r = requests.get(config['url'], headers={'User-Agent': 'ics_filter'}
+    )
 
-r = requests.get(
-    'https://scoutbook.scouting.org/ics/44935.D37B9.ics',
-    headers={'User-Agent': ''}
-)
+    c = Calendar(r.text)
 
-c = Calendar(r.text)
+    events = []
+    for e in sorted(c.events):
+        append = True
+        force_append = False
 
-events = []
-for e in sorted(c.events):
-    append = True
-    force_append = False
-
-    if not (e.begin > START_DATE and e.begin < END_DATE):
-        append = False
-
-    for r in EXCLUDE_REGEX:
-        result = re.search(r, e.name, re.IGNORECASE)
-        if result:
+        if not (e.begin > START_DATE and e.begin < END_DATE):
             append = False
 
-    for r in FORCE_INCLUDE_REGEX:
-        result = re.search(r, e.name, re.IGNORECASE)
-        if result:
-            force_append = True
+        for r in config['exclude_regex']:
+            result = re.search(r, e.name, re.IGNORECASE)
+            if result:
+                append = False
 
-    for id in EXCLUDED_IDS:
-        if id == e.uid:
-            append = False
+        for r in config['include_regex']:
+            result = re.search(r, e.name, re.IGNORECASE)
+            if result:
+                force_append = True
 
-    for id in FORCE_INCLUDED_IDS:
-        if id == e.uid:
-            force_append = True
+        for id in config['excluded_ids']:
+            if id == e.uid:
+                append = False
 
-    if EXCLUDE_MULTI_DAY:
-        if e.duration > timedelta(hours=24):
-            append = False
+        for id in config['force_included_ids']:
+            if id == e.uid:
+                force_append = True
 
-    if append or force_append:
+        if config['exclude_multi_day']:
+            if e.duration > timedelta(hours=24):
+                append = False
 
-        if len(e.name) > MAX_NAME_LENGTH:
-            e.name = e.name[0:MAX_NAME_LENGTH] 
-            console.print(e.begin.strftime('%m/%d/%y'), e.name, style="black on yellow")
+        if append or force_append:
+
+            if len(e.name) > config['max_name_length']:
+                e.name = e.name[0:config['max_name_length']]
+                console.print(e.begin.strftime('%m/%d/%y'), e.name, style="black on yellow")
+            else:
+                console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on green")
+
+            events.append(e)
         else:
-            console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on green")
-
-        events.append(e)
-    else:
-        console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on red")
+            console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on red")
 
 
-new_c = Calendar(events=events)
+    new_c = Calendar(events=events)
 
-open('filtered_troop_150.ics', 'w').writelines(new_c)
+    open(config['outgoing_filename'], 'w').writelines(new_c)
