@@ -8,23 +8,24 @@ from rich.console import Console
 console = Console()
 
 configs = [
-    # {
-    #     'start_days': 10,
-    #     'end_days': 60,
-    #     'exclude_regex': [
-    #         "break",
-    #         "no school",
-    #         "Roundtable",
-    #     ],
-    #     'remove_substring': [],
-    #     'include_regex': [],
-    #     'exclude_multi_day': True,
-    #     'excluded_ids': [],
-    #     'force_included_ids': [],
-    #     'max_name_length': 30,
-    #     'url': 'https://scoutbook.scouting.org/ics/44935.D37B9.ics',
-    #     'outgoing_filename': 'filtered_troop_150.ics'
-    # },
+    {
+        'start_days': 10,
+        'end_days': 60,
+        'exclude_regex': [
+            "break",
+            "no school",
+            "Roundtable",
+        ],
+        'remove_substring': [],
+        'include_regex': [],
+        'exclude_multi_day': True,
+        'excluded_ids': [],
+        'force_included_ids': [],
+        'max_name_length': 30,
+        'add_time_zone': False,
+        'url': 'https://scoutbook.scouting.org/ics/44935.D37B9.ics',
+        'outgoing_filename': 'filtered_troop_150.ics',
+    },
     {
         'start_days': 10,
         'end_days': 120,
@@ -37,6 +38,7 @@ configs = [
         'excluded_ids': [],
         'force_included_ids': [],
         'max_name_length': 30,
+        'add_time_zone': True,
         'url': 'https://sportsplus.app/my/sports-life/schedule/member/icalendar-subscribe/81807/MySchedule.ics',
         'outgoing_filename': 'braves_spring_2023.ics'
     }
@@ -90,17 +92,25 @@ for config in configs:
 
             for substring in config['remove_substring']:
                 e.name = e.name.replace(substring, '')
-                console.print(e.begin.strftime('%m/%d/%y'), e.name, style="black on orange")
+                # console.print(e.begin.strftime('%m/%d/%y'), e.name, style="black on yellow")
 
             if len(e.name) > config['max_name_length']:
                 e.name = e.name[0:config['max_name_length']]
-                console.print(e.begin.strftime('%m/%d/%y'), e.name, style="black on yellow")
+                # console.print(e.begin.strftime('%m/%d/%y'), e.name, style="black on yellow")
             else:
-                console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on green")
+                pass
+                # console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on green")
+
+            if config['add_time_zone']:
+                e.end = e.end.replace(tzinfo=pytz.timezone('US/Central'))
+                e.begin = e.begin.replace(tzinfo=pytz.timezone('US/Central'))
 
             events.append(e)
         else:
+            pass
             console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on red")
+
+        print(e.begin)
 
 
     new_c = Calendar(events=events)
