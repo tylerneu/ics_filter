@@ -16,6 +16,7 @@ configs = [
             "no school",
             "Roundtable",
         ],
+        'remove_substring': [],
         'include_regex': [],
         'exclude_multi_day': True,
         'excluded_ids': [],
@@ -23,6 +24,21 @@ configs = [
         'max_name_length': 30,
         'url': 'https://scoutbook.scouting.org/ics/44935.D37B9.ics',
         'outgoing_filename': 'filtered_troop_150.ics'
+    },
+    {
+        'start_days': 10,
+        'end_days': 60,
+        'exclude_regex': [],
+        'remove_substring': [
+            ' - Spring 2023 Practice'
+        ],
+        'include_regex': [],
+        'exclude_multi_day': True,
+        'excluded_ids': [],
+        'force_included_ids': [],
+        'max_name_length': 30,
+        'url': 'https://sportsplus.app/my/sports-life/schedule/member/icalendar-subscribe/81807/MySchedule.ics',
+        'outgoing_filename': 'braves_spring_2023.ics'
     }
 ]
 
@@ -71,6 +87,9 @@ for config in configs:
                 append = False
 
         if append or force_append:
+
+            for substring in config['remove_substring']:
+                e.name = e.name.replace(substring, '')
 
             if len(e.name) > config['max_name_length']:
                 e.name = e.name[0:config['max_name_length']]
