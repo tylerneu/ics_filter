@@ -3,9 +3,9 @@ from ics import Calendar
 from datetime import datetime, timedelta
 import pytz
 import re
-from rich.console import Console
+# from rich.console import Console
 
-console = Console()
+# console = Console()
 
 configs = [
     {
@@ -53,9 +53,7 @@ for config in configs:
     START_DATE = NOW - timedelta(days=config['start_days'])
     END_DATE = NOW + timedelta(days=config['end_days'])
 
-    r = requests.get(config['url'], headers={'User-Agent': 'ics_filter'}
-    )
-
+    r = requests.get(config['url'], headers={'User-Agent': 'ics_filter'})
     c = Calendar(r.text)
 
     events = []
@@ -108,9 +106,7 @@ for config in configs:
             events.append(e)
         else:
             pass
-            console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on red")
-
-        print(e.begin)
+            # console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on red")
 
 
     new_c = Calendar(events=events)
