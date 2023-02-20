@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875629
 DTEND:20230321T013000Z
 LOCATION:Covenant Fellowship
@@ -13,7 +13,7 @@ UID:4875629@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875629
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:volunteer hours for everybody! sign-ups will be available soon\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4768800
 DTEND:20230225T233000Z
 LOCATION:The Mill in Lebanon
@@ -24,7 +24,7 @@ UID:4768800@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4768800
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799328
 DTEND:20230318T213000Z
 LOCATION:Holy Family Catholic Church
@@ -35,7 +35,7 @@ UID:4799328@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799328
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771100
 DTEND:20230218T173000Z
 LOCATION:Leeville United Methodist Church
@@ -46,18 +46,18 @@ UID:4771100@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771100
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799339
-DTEND:20230402T213000Z
+DTSTAMP:20230220T084059Z
+DESCRIPTION:https://www.mtcbsa.org/ScoutsBSAOpportunities/Merit-Badge-Days\n\n$35 per session. Earn a different Merit Badge each day.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799339
+DTEND:20230416T210000Z
 LOCATION:Boxwell
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230402T130000Z
+DTSTART:20230416T050000Z
 SUMMARY:Boxwell Merit Badge Days
 UID:4799339@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799339
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771101
 DTEND:20230318T163000Z
 LOCATION:Leeville United Methodist Church
@@ -68,7 +68,7 @@ UID:4771101@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771101
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4876013
 DTEND:20230228T023000Z
 LOCATION:Mt Juliet Church of the Nazarene
@@ -79,7 +79,7 @@ UID:4876013@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4876013
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799305
 DTEND:20230218T213000Z
 LOCATION:Hermitage Lanes
@@ -90,18 +90,7 @@ UID:4799305@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799305
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
-DTEND:20230207T023000Z
-LOCATION:Mt. Juliet Church of the Nazarene
-ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230207T010000Z
-SUMMARY:Skit Competition
-UID:4877322@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877322
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875626
 DTEND:20230221T023000Z
 LOCATION:Covenant Fellowship
@@ -112,29 +101,29 @@ UID:4875626@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875626
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799336
-DTEND:20230401T213000Z
+DTSTAMP:20230220T084059Z
+DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875630
+DTEND:20230418T013000Z
+LOCATION:Covenant Fellowship
+ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
+DTSTART:20230418T000000Z
+SUMMARY:Patrol meetings/1-on-1's/PLC
+UID:4875630@scoutbook.scouting.org
+URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875630
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20230220T084059Z
+DESCRIPTION:https://www.mtcbsa.org/ScoutsBSAOpportunities/Merit-Badge-Days\n\n$35 per session. Earn a different Merit Badge each day.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799336
+DTEND:20230415T210000Z
 LOCATION:Boxwell
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230401T130000Z
+DTSTART:20230415T050000Z
 SUMMARY:Boxwell Merit Badge Days
 UID:4799336@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799336
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
-DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4922078
-DTEND:20230207T023000Z
-LOCATION:Mt. Juliet Church of the Nazarene
-ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
-DTSTART:20230207T010000Z
-SUMMARY:OA Elections
-UID:4922078@scoutbook.scouting.org
-URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4922078
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877324
 DTEND:20230214T023000Z
 LOCATION:Mt. Juliet Church of the Nazarene
@@ -145,7 +134,7 @@ UID:4877324@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4877324
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230215T141702Z
+DTSTAMP:20230220T084059Z
 DESCRIPTION:crossover for the AOLs from Pack 153 to Troop 150\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4768806
 DTEND:20230212T020000Z
 LOCATION:MJE
