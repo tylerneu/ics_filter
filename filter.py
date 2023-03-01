@@ -18,7 +18,7 @@ configs = [
         ],
         'remove_substring': [],
         'include_regex': [],
-        'exclude_multi_day': True,
+        'exclude_multi_day': False,
         'excluded_ids': [],
         'force_included_ids': [],
         'max_name_length': 30,
