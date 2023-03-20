@@ -29,7 +29,9 @@ configs = [
     {
         'start_days': 10,
         'end_days': 120,
-        'exclude_regex': [],
+        'exclude_regex': [
+          '2023 Picture Day'
+        ],
         'append_description': True,
         'remove_substring': [
             ' - Spring 2023 Practice',
@@ -39,7 +41,8 @@ configs = [
         ],
         'include_regex': [],
         'exclude_multi_day': True,
-        'excluded_ids': [],
+        'excluded_ids': [
+        ],
         'force_included_ids': [],
         # 'max_name_length': 30,
         'add_time_zone': True,
@@ -112,7 +115,7 @@ for config in configs:
                 e.end = e.end.replace(tzinfo=pytz.timezone('US/Central'))
                 e.begin = e.begin.replace(tzinfo=pytz.timezone('US/Central'))
 
-            console.print(e.begin.strftime('%m/%d/%y'), e.name)
+            console.print(f"{e.begin.strftime('%m/%d/%y')} - {e.name} - {e.uid}")
             events.append(e)
         else:
             # console.print(e.begin.strftime('%m/%d/%y'), e.name, style="white on red")
