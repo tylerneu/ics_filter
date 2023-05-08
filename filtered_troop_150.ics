@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:Fun and games and ZOMBIES.\n\nCost is $26/Scout  - $10 for the event and $16 for food\; $16/adult - food only.\n\nPlease RSVP by 4/17 so we can register. \n\nIt's going to be fun!\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809345
 DTEND:20230430T150000Z
 LOCATION:Boxwell Camp Stahlman
@@ -13,7 +13,7 @@ UID:4809345@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809345
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799361
 DTEND:20230521T013000Z
 LOCATION:Boxwell Camp Beany Elam
@@ -24,7 +24,7 @@ UID:4799361@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799361
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771110
 DTEND:20230617T163000Z
 LOCATION:Leeville United Methodist Church
@@ -35,7 +35,7 @@ UID:4771110@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771110
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771107
 DTEND:20230520T163000Z
 LOCATION:Leeville United Methodist Church
@@ -46,7 +46,7 @@ UID:4771107@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4771107
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:grubmaster planning for Skills Camp this weekend\n\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875645
 DTEND:20230516T013000Z
 LOCATION:Mt Juliet Church of the Nazarene
@@ -57,7 +57,7 @@ UID:4875645@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875645
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799412
 DTEND:20230530T013000Z
 LOCATION:Boxwell
@@ -68,7 +68,7 @@ UID:4799412@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799412
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5081971
 DTEND:20230606T013000Z
 LOCATION:Charlie Daniels Park
@@ -79,7 +79,7 @@ UID:5081971@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5081971
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:RSVP required!! The pool staff needs a list in advance.\n\nWe will be conducting our swim tests for summer camp. If you cannot make this date\, we can try to find an alternate date\, or it can be done at summer camp. Swim classification determines where you can go in the pool or lake area at Summer Camp. Swimmer classification is required for all water-sports merit badges\n\nThere are 3 swimmer classifications:\n-Non swimmer: if you don't complete the other tests or opt out.\n-Beginner: Jump feet first into water over the head in depth\, level off\, swim 25 feet on the surface\,stop\, turn sharply\, resume swimming as before\, and return to starting place.\n-Swimmer: Jump feet first into water over the head in depth. Level off and swim 75 yards in a strong manner using one or more of the following strokes: sidestroke\, breaststroke\, trudgen\, or crawl\; then swim 25 yards using an easy\, resting backstroke. The 100 yards must be completed in one swim without stops and must include at least one sharp turn. After completing the swim\, rest by floating. (For practical purposes in a pool\, this is 3 lengths in any forward stroke and one length in a backstroke\, followed by a float).\n\nLet me know if you have any questions or concerns.\n\nThanks\,\nMichelle Oakley \nCommittee Chair T150\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809352
 DTEND:20230610T170000Z
 LOCATION:Jimmy Floyd Center 511 N. Castle Heights Ave Lebanon
@@ -90,7 +90,7 @@ UID:4809352@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809352
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:RSVP and pay your initial fee of $75 by January 30th.\n\nMerit badge selections are due by February 6th.\n\nLet me know if you have any questions.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809369
 DTEND:20230708T150000Z
 LOCATION:Boxwell Reservation
@@ -101,7 +101,7 @@ UID:4809369@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809369
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5045215
 DTEND:20230523T000000Z
 LOCATION:Longhunter State Park Couchville Lake
@@ -112,7 +112,7 @@ UID:5045215@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5045215
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043820
 DTEND:20230527T153000Z
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
@@ -122,7 +122,7 @@ UID:4043820@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043820
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:Last chance to get advancements (rank or merit badge) completed before Court of Honor on 5-20-23. Check your books\, turn in your sheets from Merit Badge Days\, and get awarded for your efforts :)\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5045181
 DTEND:20230509T013000Z
 LOCATION:Charlie Daniels Park Farmers Market pavilion
@@ -133,7 +133,7 @@ UID:5045181@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5045181
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043817
 DTEND:20230525T203000Z
 ORGANIZER;CN=Michelle Oakley:mailto:mlt1473@yahoo.com
@@ -143,7 +143,7 @@ UID:4043817@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4043817
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:We will be practicing all the Scout Skills - knives\, fire\, knots\, etc.\n\nWe will have Court of Honor and Flag Retirement on Saturday night. Lots to celebrate! All are welcome for COH. \n\nPlease RSVP so we can meal plan. Cost is $16 for food.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799357
 DTEND:20230521T150000Z
 LOCATION:Boxwell Camp Beany Elam
@@ -154,7 +154,7 @@ UID:4799357@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799357
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:RSVP as soon as possible so we can make reservations\n\ncost is as follows: \n $14/person day for canoe (2 people per canoe)\n $5/person/night for Grimes platform tent (2 people per tent)\n $3/person/night for bring-your-own tents\n food cost will depend on whether we meal plan as a Troop (like a campout) or individually (like a backpacking trip)\n\nLet me know if you have any questions.\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809356
 DTEND:20230604T150000Z
 LOCATION:Grimes Canoe Base
@@ -165,7 +165,7 @@ UID:4809356@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4809356
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5082365
 DTEND:20230613T013000Z
 LOCATION:Charlie Daniels Park
@@ -176,7 +176,7 @@ UID:5082365@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5082365
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:Please RSVP.\n\nJoin us as we welcome our newest Scouts from Pack 754! Class A uniform and all your Scout spirit :)\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5088561
 DTEND:20230510T010000Z
 LOCATION:Charlie Daniels Park
@@ -187,7 +187,7 @@ UID:5088561@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5088561
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875646
 DTEND:20230620T013000Z
 LOCATION:Charlie Daniels Park
@@ -198,7 +198,7 @@ UID:4875646@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4875646
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5045180
 DTEND:20230502T013000Z
 LOCATION:Mt Juliet Church of the Nazarene
@@ -209,7 +209,7 @@ UID:5045180@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5045180
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799346
 DTEND:20230429T213000Z
 LOCATION:TBD
@@ -220,7 +220,7 @@ UID:4799346@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=4799346
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5057495
 DTEND:20230610T163000Z
 LOCATION:Leeville UMC
@@ -231,7 +231,7 @@ UID:5057495@scoutbook.scouting.org
 URL:HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5057495
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20230505T155535Z
+DTSTAMP:20230508T092607Z
 DESCRIPTION:\n\nFor more information please visit: HTTPS://scoutbook.scouting.org/mobile/dashboard/calendar/event.asp?EventID=5082397
 DTEND:20230627T013000Z
 LOCATION:Charlie Daniels Park
